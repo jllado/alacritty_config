@@ -850,3 +850,6 @@ background_opacity: 0.8
 
   # Print all received window events.
   #print_events: false
+import:
+  - ~/.config/alacritty/theme.yml
+
